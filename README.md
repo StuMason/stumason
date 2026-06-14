@@ -5,7 +5,7 @@ You can just break things.
 [stumason.dev](https://stumason.dev) · [YouTube](https://youtube.com/@stumasondev) · [X](https://x.com/stumasondev)
 
 <!-- digest:start -->
-> This week: I shipped GDPR/PECR compliance for a client project, added consent capture, unsubscribe handling, erasure request and retention controls so users can manage consent, unsubscribe from communications, request data deletion and have data expire per policy.
+> This week: I fixed GDPR/PECR compliance for a client, added consent, unsubscribe, erasure and retention controls, upgraded client auth to OAuth 2.1 via Passport and removed static tokens, and fixed client payment flow to prevent orphaned holds and webhook races.
 >
 > <sub>auto-generated daily from my GitHub activity — live feed at [stumason.dev](https://stumason.dev)</sub>
 <!-- digest:end -->
