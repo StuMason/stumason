@@ -5,7 +5,7 @@ You can just break things.
 [stumason.dev](https://stumason.dev) · [YouTube](https://youtube.com/@stumasondev) · [X](https://x.com/stumasondev)
 
 <!-- digest:start -->
-> This week: I shipped OAuth 2.1 via Passport for a client project, replacing static tokens so users authenticate with standard OAuth flows and credentials can be rotated.
+> This week: I upgraded Horizon to 5.47 in a client project and fixed worker crash loops so workers drain 5,134 pending jobs and the activity feed updates. I added a Work with me /hire page on coolify-mcp so visitors can start hiring.
 >
 > <sub>auto-generated daily from my GitHub activity — live feed at [stumason.dev](https://stumason.dev)</sub>
 <!-- digest:end -->
