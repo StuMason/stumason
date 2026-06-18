@@ -5,7 +5,7 @@ You can just break things.
 [stumason.dev](https://stumason.dev) · [YouTube](https://youtube.com/@stumasondev) · [X](https://x.com/stumasondev)
 
 <!-- digest:start -->
-> This week: shipped a booking dialog update for a client project that added cleaner working hours and availability messages so bookings stop rejecting users without clear guidance, and shipped a Work with me page for coolify-mcp so visitors can hire me and start enquiries.
+> This week: I added a pull_latest option to coolify-mcp so service restarts can pull the latest Docker image, and I added case study links and SEO metadata to service pages for a client project so visitors and search engines can find reviews.
 >
 > <sub>auto-generated daily from my GitHub activity — live feed at [stumason.dev](https://stumason.dev)</sub>
 <!-- digest:end -->
