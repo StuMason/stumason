@@ -5,7 +5,7 @@ You can just break things.
 [stumason.dev](https://stumason.dev) · [YouTube](https://youtube.com/@stumasondev) · [X](https://x.com/stumasondev)
 
 <!-- digest:start -->
-> This week: I fixed production queues for a client project and upgraded laravel/horizon so workers honor --stop-when-empty-for and jobs resume, added a pull_latest restart option for coolify-mcp so services pull the latest image, and removed ≈2,500 Actions minutes/month for laravel-coolify.
+> This week: I shipped rate-limited, POST-only, idempotent newsletter flows for a client project to prevent accidental confirms/unsubscribes and duplicate mailings, and I added pull_latest restart to coolify-mcp so services can fetch the newest Docker image on restart.
 >
 > <sub>auto-generated daily from my GitHub activity — live feed at [stumason.dev](https://stumason.dev)</sub>
 <!-- digest:end -->
