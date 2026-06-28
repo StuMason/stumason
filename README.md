@@ -5,7 +5,7 @@ You can just break things.
 [stumason.dev](https://stumason.dev) · [YouTube](https://youtube.com/@stumasondev) · [X](https://x.com/stumasondev)
 
 <!-- digest:start -->
-> This week: shipped a shop-template rule denying PHP execution under /storage and /uploads to block Laravel web‑shells, and fixed mobile payment and booking flows for a client project so dialogs scroll and the card field and Pay button are reachable on small screens.
+> This week: I added a rule in shop-template that denies PHP execution under /storage and /uploads to block Laravel web‑shells, and I fixed a client project so accepted-but-unpaid same-day direct bookings no longer auto-cancel and message alerts open the message thread.
 >
 > <sub>auto-generated daily from my GitHub activity — live feed at [stumason.dev](https://stumason.dev)</sub>
 <!-- digest:end -->
