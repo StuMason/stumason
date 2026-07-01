@@ -5,7 +5,7 @@ You can just break things.
 [stumason.dev](https://stumason.dev) · [YouTube](https://youtube.com/@stumasondev) · [X](https://x.com/stumasondev)
 
 <!-- digest:start -->
-> This week: fixed mobile payment and booking flows for a client project so mobile users can reach payment fields and complete bookings, and added a rule in shop-template to deny PHP execution under /storage and /uploads to block uploaded web‑shells.
+> This week: I fixed mobile payments and booking flows for a client project so phone users can reach card fields and complete payments. I shipped a shop-template change that returns 403 for *.php in /storage and /uploads to prevent uploaded web‑shells.
 >
 > <sub>auto-generated daily from my GitHub activity — live feed at [stumason.dev](https://stumason.dev)</sub>
 <!-- digest:end -->
