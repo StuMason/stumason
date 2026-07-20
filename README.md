@@ -1,6 +1,6 @@
-# Stu Mason
+# stu mason.
 
-You can just break things.
+It works on my agents machine?
 
 [stumason.dev](https://stumason.dev) · [YouTube](https://youtube.com/@stumasondev) · [X](https://x.com/stumasondev)
 
