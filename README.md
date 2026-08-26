@@ -14,4 +14,4 @@
 > <sub>auto-generated daily from my GitHub activity — live feed at [stumason.dev](https://stumason.dev)</sub>
 <!-- digest:end -->
 
-[stumason.dev](https://stumason.dev) · [YouTube](https://youtube.com/@stumasondev) · [X](https://x.com/stumasondev) · [Work with me](https://stumason.dev/services)
+[stumason.dev](https://stumason.dev) · [journey](https://journey.stumason.dev) · [YouTube](https://youtube.com/@stumasondev) · [X](https://x.com/stumasondev) · [Work with me](https://stumason.dev/services)
