@@ -1,9 +1,9 @@
 <p>
   <a href="https://stumason.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuMason/stumason/main/assets/banner-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuMason/stumason/main/assets/banner-light.png">
-      <img alt="Stu Mason. Agents, the MCP servers that connect them, and the production behind both." src="https://raw.githubusercontent.com/StuMason/stumason/main/assets/banner-light.png" width="1200">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuMason/stumason/main/assets/banner-dark.jpg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuMason/stumason/main/assets/banner-light.jpg">
+      <img alt="Stu Mason. Agents, the MCP servers that connect them, and the production behind both." src="https://raw.githubusercontent.com/StuMason/stumason/main/assets/banner-light.jpg" width="1200">
     </picture>
   </a>
 </p>
