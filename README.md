@@ -8,10 +8,19 @@
   </a>
 </p>
 
-<!-- digest:start -->
-> This week: fixed mobile payment and booking flows for a client project so mobile users can reach payment fields and complete bookings, and added a rule in shop-template to deny PHP execution under /storage and /uploads to block uploaded web‑shells.
->
-> <sub>auto-generated daily from my GitHub activity — live feed at [stumason.dev](https://stumason.dev)</sub>
-<!-- digest:end -->
+I'm Stu, a software engineer in Folkestone. I help businesses understand their data, put AI to work inside their own systems, and see where their security stands.
 
-[stumason.dev](https://stumason.dev) · [journey](https://journey.stumason.dev) · [YouTube](https://youtube.com/@stumasondev) · [X](https://x.com/stumasondev) · [Work with me](https://stumason.dev/services)
+Most of what I publish here is the plumbing that lets AI assistants work with real tools.
+
+### Open source
+
+- **[coolify-mcp](https://github.com/StuMason/coolify-mcp)** lets Claude and other AI assistants manage a self-hosted Coolify server. 600+ stars, on npm as `@masonator/coolify-mcp`.
+- **[laravel-coolify](https://github.com/StuMason/laravel-coolify)** deploys Laravel apps to Coolify from Artisan, with a dashboard and Dockerfile generation.
+- **[polar-flow-server](https://github.com/StuMason/polar-flow-server)** keeps all your Polar watch data on your own server and lets your AI read it over MCP.
+- **[polar-flow](https://github.com/StuMason/polar-flow)** is an async Python client for the Polar AccessLink API.
+- **[m365-mcp](https://github.com/StuMason/m365-mcp)** connects AI assistants to Microsoft 365: mail, calendar, OneDrive and Teams.
+- **[claudavel](https://github.com/StuMason/claudavel)** is a Laravel starter set up to work with Claude Code, with code review, coding standards and GitHub workflows.
+
+### Find me
+
+[stumason.dev](https://stumason.dev) · [Work with me](https://stumason.dev/services) · [Journey](https://journey.stumason.dev) · [YouTube](https://youtube.com/@stumasondev) · [X](https://x.com/stumasondev)
